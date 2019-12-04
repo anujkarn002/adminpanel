@@ -2,7 +2,7 @@
 
 ### This is a simple admin panel for ecommerce website but you can tweak a little to use for any type of admin panel.
 
-### Also if you want to see a quick simple demo, head over to [Admin Panel](https://cselladmin.azurewebsites.net) hosted on Microsoft Azure in free tier using free subscription for students. Please use sid@csellnp.com as email and sid@csell as password which is a super user for the website.
+### Also if you want to see a quick simple demo, head over to [Admin Panel](https://cselladmin.azurewebsites.net) hosted on Microsoft Azure in free tier using free subscription for students. Please use sid@csellnp.com as email and sid@csell1# as password which is a super user for the website.
 
 ## General Features
 ### As of now:
